@@ -5,7 +5,7 @@ import java.io.*;
 public class MarsvinTest {
     public static void main(String[] args) {
 
-        File file = new File("C:\\Users\\magnu\\Desktop\\Marsvin.txt");
+        File file = new File("Marsvin.csv");
 
         //Counting number of lines to put in array.
         int count = 0;
